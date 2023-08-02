@@ -18,7 +18,7 @@ O projeto VastSpace foi construído utilizando as seguintes tecnologias e ferram
 
  
  ## Confira:
-
+https://vastspacedev.netlify.app/
 
 <img src="./src/assets/galeria/site.png" alt="">
 <img src="./src/assets/galeria/site1.png" alt="">
